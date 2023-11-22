@@ -31,7 +31,7 @@ const videoIcons = [
 
 const anotherSlidebar = () => {
   return (
-    <div className="w-1/5 p-6">
+    <div className="w-1/5 p-5">
       <div className="relative rounded shadow-md">
         <img
           src="https://media.istockphoto.com/id/1471882420/photo/entrepreneur-is-running-her-online-business.jpg?s=612x612&w=is&k=20&c=2GZVcj5c5rboZAYmv2WSLZ3BoNKQBsEYBbeRVb-WiMY="
